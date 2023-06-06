@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Mr_Dynomite\Desktop\Tetris\tut_Basic_Objects\main.cpp(100,37): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Mr_Dynomite\Desktop\Tetris\tut_Basic_Objects\main.cpp(120,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Mr_Dynomite\Desktop\Tetris\tut_Basic_Objects\main.cpp(158,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Mr_Dynomite\Desktop\Tetris\tut_Basic_Objects\main.cpp(98,7): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\Mr_Dynomite\Desktop\Tetris\tut_Basic_Objects\main.cpp(172,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Mr_Dynomite\Desktop\Tetris\tut_Basic_Objects\main.cpp(173,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tut_Basic_Objects.vcxproj -> C:\Users\Mr_Dynomite\Desktop\Tetris\Debug\tut_Basic_Objects.exe
